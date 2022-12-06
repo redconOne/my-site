@@ -7,10 +7,9 @@ author: 'Ming Lee Ng'
 tags:
   - LeetCode 1
   - Two Sum
-  - JavaScript
-  - TypeScript
+  - Hashmaps
 image:
-description: ''
+description: 'The Everyday Persons Guide to LeetCode #1'
 toc:
 socials:
 ---
@@ -104,5 +103,6 @@ attempt this one is a little more effecient, going from quadratic o(n^2) to
 linear o(n). Nice! That's the first LeetCode down! Now, from here, we could
 continue on to LeetCode 2, which is Add Two Numbers, but, despite that one being
 pretty fun, it is also a medium difficulty, which I think we'll save for a bit
-later. Lets instead look forward to tackling LeetCode 9 - Palindrome Number
-next. See you then!
+later. Lets instead look forward to tackling
+<a href='/PalindromeNumber.md'>LeetCode 9 - Palindrome Number</a> next. See you
+then!
