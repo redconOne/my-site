@@ -59,13 +59,13 @@ params:
     textAlign: left # default: left
 
   # color preference
-  # color:
-  #   textColor:
-  #   secondaryTextColor:
-  #   backgroundColor:
-  #   secondaryBackgroundColor:
-  #   primaryColor:
-  #   secondaryColor:
+  color:
+    textColor: '#161616'
+    secondaryTextColor: '#20262D'
+    backgroundColor: '#F0F2F5'
+    secondaryBackgroundColor: '#1CDD30'
+    primaryColor: '#120C12'
+    secondaryColor: '#EDDAA3'
 
   #   darkmode:
   #     textColor:
