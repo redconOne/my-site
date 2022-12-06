@@ -80,7 +80,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     brandName: '' # Brand name for the brand | default is the title variable
-    disableSearch: true
+    disableSearch: false
     menus:
       disableAbout: false
       disableExperience: true
@@ -122,7 +122,7 @@ params:
     title: 'About Me'
     image: '/images/me.jpg'
     content: |-
-      I am a Software Engineer with a passion for building helpful and beautiful programs. I can typically be foundlearning something new, building a new project, or gaming. I actually find some coding challenges fun/relaxing (looking at you Advent of Code), so I don't think anyone is ever surprised to see me tackling a new puzzle.
+      I am a Software Engineer with a passion for building helpful and beautiful programs. I can typically be found learning something new, building a new project, or gaming. I actually find some coding challenges fun/relaxing (looking at you Advent of Code), so I don't think anyone is ever surprised to see me tackling a new puzzle.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -246,7 +246,7 @@ params:
           Trek.
         image: /images/projects/ffg.jpg
         featured:
-          name: Federation Field Guide
+          name: Link
           link: https://federation-field-guide.netlify.app
         badges:
           - 'HTML'
@@ -264,7 +264,7 @@ params:
           results.
         image: /images/projects/acft.jpg
         featured:
-          name: ACFT Tracker
+          name: Link
           link: https://acft-production.up.railway.app
         badges:
           - 'MVC'
@@ -279,7 +279,7 @@ params:
         content: A website for a barbershop in El Paso, Texas
         image: /images/projects/ccep.jpg
         featured:
-          name: Clean Cuts El Paso
+          name: Link
           link: https://cleancutselpaso.netlify.app
         badges:
           - 'HTML'
