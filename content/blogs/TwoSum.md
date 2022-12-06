@@ -98,11 +98,13 @@ function twoSum(nums: number[], target: number): number[] {
 }
 ```
 
+## Closing
+
 And there we have it! A short and sweet Two Sum function! Unlike our first
 attempt this one is a little more effecient, going from quadratic o(n^2) to
 linear o(n). Nice! That's the first LeetCode down! Now, from here, we could
 continue on to LeetCode 2, which is Add Two Numbers, but, despite that one being
 pretty fun, it is also a medium difficulty, which I think we'll save for a bit
 later. Lets instead look forward to tackling
-<a href='/PalindromeNumber.md'>LeetCode 9 - Palindrome Number</a> next. See you
-then!
+<a href='/PalindromeNumber.md'>**`LeetCode 9 - Palindrome Number`**</a> next.
+See you then!
