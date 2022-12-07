@@ -8,7 +8,7 @@ tags:
   - LeetCode 9
   - Palindrome Number
   - String Methods
-image:
+image: /images/blog/blog2.jpg
 description: 'The Everyday Persons Guide to LeetCode #9'
 toc:
 socials:
@@ -128,5 +128,5 @@ practice with it your brain will make those connections repeatedly and before ya
 know it these kinds of operations will be just another tool in the tool belt.
 Next on our list of LeetCode problems we'll be taking down a super duper fun
 one! The dreaded
-<a href='/RomanToInteger.md'>**`LeetCode 13 - Roman to Integer`**</a>. See you
+<a href='../romantointeger/'>**`LeetCode 13 - Roman to Integer`**</a>. See you
 there!
