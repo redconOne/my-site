@@ -106,5 +106,5 @@ linear o(n). Nice! That's the first LeetCode down! Now, from here, we could
 continue on to LeetCode 2, which is Add Two Numbers, but, despite that one being
 pretty fun, it is also a medium difficulty, which I think we'll save for a bit
 later. Lets instead look forward to tackling
-<a href='/PalindromeNumber.md'>**`LeetCode 9 - Palindrome Number`**</a> next.
+<a href='../palindromenumber/'>**`LeetCode 9 - Palindrome Number`**</a> next.
 See you then!
