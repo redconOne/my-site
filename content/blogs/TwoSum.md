@@ -8,7 +8,7 @@ tags:
   - LeetCode 1
   - Two Sum
   - Hashmaps
-image:
+image: /images/blog/blog1.jpg
 description: 'The Everyday Persons Guide to LeetCode #1'
 toc:
 socials:
