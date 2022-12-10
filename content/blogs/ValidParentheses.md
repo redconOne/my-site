@@ -1,6 +1,6 @@
 ---
 title: 'Valid Parentheses'
-date: 2022-12-08
+date: 2022-12-09
 draft: false
 github_link: ''
 author: 'Ming Lee Ng'
