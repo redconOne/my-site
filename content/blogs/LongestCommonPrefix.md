@@ -1,6 +1,6 @@
 ---
 title: 'Longest Common Prefix'
-date: 2022-12-07
+date: 2022-12-08
 draft: false
 github_link: ''
 author: 'Ming Lee Ng'
