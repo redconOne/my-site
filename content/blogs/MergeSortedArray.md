@@ -77,5 +77,8 @@ function merge(nums1: number[], m: number, nums2: number[], n: number): void {
 
 Congrats on keeping up! This was a fun Two Pointer type problem, and a little bit of a brain-bender the first time you come across it! Don't worry
 though, it should get a easier bit by bit with more and more practice! Tomorrow's problem will involve us working on the infamous Binary Trees! They
-can be a complicated and intimidating data structure, but we're gonna keep it simple and tackle it no problemo in
-<a href='../binarytreeinordertraversal/'>**`LeetCode 94 - Binary Tree Inorder Traversal`**</a>! See you then!
+can be a complicated and intimidating data structure, but we're gonna keep it simple and tackle it no problemo in **`(coming soon)`**
+
+<!-- <a href='../binarytreeinordertraversal/'>**`LeetCode 94 - Binary Tree Inorder Traversal`**</a>!  -->
+
+See you then!
