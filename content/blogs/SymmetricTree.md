@@ -83,5 +83,5 @@ Awesome! This is a pretty fun problem, and probably one of my favorites to re-vi
 can check all the way down the depth first in a depth-first-search, or you can check each node before you check its branches in a breadth-first-search
 kind of manner. Neither is wrong, neither is right, and both had advantages and disadvantages. You could also && a lot of those booleans together for
 a return. The choice is totally in your hands! Have fun with it, play around with it, and find out what code makes the most sense to you personally!
-You've got this! Keep playing around with those binary trees though, because we'll be covering them more in the super near future in the problem
+You've got this! Keep playing around with those binary trees though, because we'll be covering them much more in the super near future in the problem
 <a href='../maximumdepthofbinarytree/'>**`LeetCode 104 - Maximum Depth of Binary Tree`**</a>!See you then!
