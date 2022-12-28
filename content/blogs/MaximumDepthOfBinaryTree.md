@@ -62,8 +62,8 @@ function maxDepth (root: TreeNode | null): number {
 
 ## Closing
 
-Easy as that! We're working with more and more recursion as we're dealing with all these trees, so if it doesn't make sense yet keep working on those
-trees! Recursion is one of those things that is really scary right up until it isn't. Once you really wrap your head around it recursion will turn
-from something confusing and nightmareish to a super strong tool in your toolbelt! We have just a few more binary tree problems coming up before we
-get a short break from them, so hang in there as we prepare to tackle our next tree problem in
-<a href='../pathsum/'>**`LeetCode 112 - Path Sum`**</a>!See you then!
+Easy as that! We're working with more and more recursion as we deal with all these trees, so if it doesn't make sense yet keep working on those trees!
+Recursion is one of those things that is really scary right up until it isn't. Once you really wrap your head around it recursion will turn from
+something confusing and nightmareish to a super strong tool in your toolbelt! We have just a few more binary tree problems coming up before we get a
+short break from them, so hang in there as we prepare to tackle our next tree problem in <a href='../pathsum/'>**`LeetCode 112 - Path Sum`**</a>!See
+you then!
