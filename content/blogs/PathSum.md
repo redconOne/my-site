@@ -1,6 +1,6 @@
 ---
 title: 'Path Sum'
-date: 2022-12-20
+date: 2022-12-25
 draft: false
 github_link: ''
 author: 'Ming Lee Ng'
