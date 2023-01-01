@@ -9,7 +9,7 @@ tags:
   - Array
   - Dynamic Programming
 image: /images/blog/blog2.jpg
-description: 'The Everyday Persons Guide to LeetCode #118'
+description: 'The Everyday Persons Guide to LeetCode #119'
 toc:
 socials:
 ---
