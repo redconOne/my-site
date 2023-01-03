@@ -66,18 +66,26 @@ result ^= num. Lets take a look at another table and see what would happen here 
 | 7             | 1   | 6            | 1's cancel out |
 | 6             | 2   | 4            | 2's cancel out |
 
+Ok! So there's the brief explanation. It might look a little funky if you've never encountered XORs before, but they're worth looking in to. The
+actual code for me solution is gonna look like this though:
+
 ## Solution
 
 ```
 
-function isPalindrome(str: string): boolean {
-  str = str.toLowerCase().replace(/[^a-z0-9]/g, '');
-  return str === str.split('').reverse().join('');
+function singleNumber(nums: number[]): number {
+  let result = 0;
+
+  for (const num of nums) result ^= num;
+
+  return result;
 }
+
 ```
 
 ## Closing
 
-Good work! After all the crazy problems we've done this one should be a little more straight forward to wrap your brain around. Don't be discouraged
-if there are a few bugs to work out though, that's completely normal! We'll have another straight-forward problem tomorrow when we address solving
-<a href='../singlenumber/'>**`LeetCode 136 - Single Number`**</a>! See you then!
+Nicely done! This was a funky one, but a great check on your knowledge of bitwise operators! This isn't one of those topics that requires a massive
+deep dive into, so you can feel free to look into XORs a little bit, get a little more knowledge, and it'll be another easy tool in the toolbelt to
+acquire. Get ready for some more data structures though, as tomorrow we'll be looking into more Linked Lists in
+<a href='../linkedlistcycle/'>**`LeetCode 141 - Linked List Cycle`**</a>! See you then!
