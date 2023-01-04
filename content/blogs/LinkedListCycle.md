@@ -1,5 +1,5 @@
 ---
-title: 'Valid Palindrome'
+title: 'Linked List Cycle'
 date: 2022-12-31
 draft: false
 github_link: ''
