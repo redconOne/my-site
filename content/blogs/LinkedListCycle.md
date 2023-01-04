@@ -17,7 +17,7 @@ socials:
 
 ## Introduction
 
-Hello and welcome! I'm Ming Lee, and today we're going to cover **How to solve LeetCode 141 - Single Number - in JS/TS :zap:**
+Hello and welcome! I'm Ming Lee, and today we're going to cover **How to solve LeetCode 141 - Linked List Cycle - in JS/TS :zap:**
 
 Same as always we're gonna solve this, and we're gonna do it without the big fancy words because this is for regular folx! Keeping it nice and casual
 round these parts! Movin' on...
