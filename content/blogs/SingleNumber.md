@@ -1,5 +1,5 @@
 ---
-title: 'Valid Palindrome'
+title: 'Single Number'
 date: 2022-12-30
 draft: false
 github_link: ''
