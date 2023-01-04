@@ -1,6 +1,6 @@
 ---
 title: 'Binary Tree Preorder Traversal'
-date: 2022-01-01
+date: 2023-01-01
 draft: false
 github_link: ''
 author: 'Ming Lee Ng'
