@@ -105,5 +105,5 @@ Nothing catches that or anything, it just returns to the void. If root isn't nul
 also took the liberty of setting arr to an empty array in the case its undefined, such as during the first call, that way we always have some kind of
 array to work with. Keep in mind that we're passing an array down into the recursive functions and the push method is mutating this array, so we don't
 need to do any kind of arr = preorderTraversal() stuff. We just call the function, let it do its thing, and then its done! Great job! Next time we'll
-be heading right back into Linked Lists again as we handle
-<a href='../intersectionoftwolinkedlists/'>**`LeetCode 160 - Intersection of Two Linked Lists`**</a>! See you then!
+be handling some more Binary Tree Traversals by solving
+<a href='../intersectionoftwolinkedlists/'>**`LeetCode 145 - Binary Tree Postorder Traversal`**</a>! See you then!
