@@ -8,7 +8,7 @@ tags:
   - LeetCode 171
   - Math
   - String
-image: /images/blog/blog2.jpg
+image: /images/blog/blog3.jpg
 description: 'The Everyday Persons Guide to LeetCode #171'
 toc:
 socials:
