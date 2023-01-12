@@ -58,7 +58,7 @@ then we need to add total to the array and call ourselves again. All in all the 
 
 ```
 function isHappy(n: number, arr: number[] = []): boolean {
-  const total = n.toString().split('').reduce((sum, num) => sum + +num ** 2, 0);
+  const total = n.toString().split('').reduce((sum, num) => sum + (+num) ** 2, 0);
 
   if(total === 1) return true;
   if(arr.includes(total)) return false;
