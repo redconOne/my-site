@@ -22,8 +22,8 @@ round these parts! Movin' on...
 
 ## Problem
 
-<b><a href='https://leetcode.com/problems/'>`LeetCode 226 - Invert Binary Tree`</a></b> Given the root of a binary tree, invert the tree, and return
-its root.
+<b><a href='https://leetcode.com/problems/invert-binary-tree'>`LeetCode 226 - Invert Binary Tree`</a></b> Given the root of a binary tree, invert the
+tree, and return its root.
 
 ## Explanation
 
