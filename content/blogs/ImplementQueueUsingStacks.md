@@ -173,4 +173,4 @@ class MyQueue {
 ## Closing
 
 And there you have it! We've now implemented a queue using stacks! I look forward to seeing everyone in the next one:
-<a href='..//'>**`LeetCode 234 - Palindrome Linked List`**</a>! See you then!
+<a href='../palindromelinkedlist/'>**`LeetCode 234 - Palindrome Linked List`**</a>! See you then!
