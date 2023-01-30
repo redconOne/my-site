@@ -63,4 +63,4 @@ function canWinNim(n: number): boolean {
 ## Closing
 
 What a fun one! This is a shorty mathy one, but its really fun to work out and think of the game. We're heading back into some work with arrays next
-when we work on <a href='..//'>**`LeetCode 303 - Range Sum Query - Immutable`**</a>! See you then!
+when we work on <a href='../rangesumqueryimmutable/'>**`LeetCode 303 - Range Sum Query - Immutable`**</a>! See you then!
