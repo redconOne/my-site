@@ -88,4 +88,4 @@ class NumArray {
 
 Nice! That should have felt pretty good considering all the math and data-structures we've been covering! The hardest part of this type of question is
 really just trying to figure out what the heck we need to get to work on in the first place. Next we'll be taking a look at
-<a href='../power-of-three/'>**`LeetCode 326 - Power of Three`**</a>! See you then!
+<a href='../powerofthree/'>**`LeetCode 326 - Power of Three`**</a>! See you then!
