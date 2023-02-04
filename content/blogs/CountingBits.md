@@ -1,6 +1,6 @@
 ---
 title: 'Counting Bits'
-date:
+date: 2023-02-01
 draft: false
 github_link: ''
 author: 'Ming Lee Ng'
