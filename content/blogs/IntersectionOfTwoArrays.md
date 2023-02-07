@@ -26,7 +26,7 @@ round these parts! Movin' on...
 
 ## Problem
 
-<b><a href='https://leetcode.com/problems/'>`LeetCode 349 - Intersection of Two Arrays`</a></b>
+<b><a href='https://leetcode.com/problems/intersection-of-two-arrays/'>`LeetCode 349 - Intersection of Two Arrays`</a></b>
 
 Given tow integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must be unique and you may return the
 result in any order.
